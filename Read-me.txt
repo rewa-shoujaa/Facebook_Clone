@@ -1,0 +1,7 @@
+Please start with the index page.
+
+you can login with any user from the database, they all have password 123456789
+
+you can use:
+e-mail: rewa.shoujaa@gmail.com
+password: 123456789
